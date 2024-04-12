@@ -1,0 +1,2 @@
+PWM pins PE9 (D6)- TIMER_A_PWM1
+PC6 (D16) - I2S_A_MCK
